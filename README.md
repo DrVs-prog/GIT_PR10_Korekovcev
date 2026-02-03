@@ -37,7 +37,13 @@
 
 ## Пример кода
 
-```python
-def приветствие(имя):
-    return f"Привет, {имя}!"
-print(приветствие("Мир"))
+```C#
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine($"Текущая дата: {DateTime.Now.ToShortDateString()}");
+        Console.WriteLine($"Группа: ИС-22Б");
+        Console.WriteLine($"Студент: Корековцев Дмитрий Андреевич");
+    }
+}
