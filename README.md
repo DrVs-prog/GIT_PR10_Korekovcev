@@ -21,7 +21,7 @@
 Меня зовут *Дмитрий Корековцев*. Я увлекаюсь программированием и разметкой.  
 Вот мое фото:
 
-![Мое фото](https://via.placeholder.com/150)
+![Мое фото](https://daily.afisha.ru/culture/5143-8-nauchnyh-obyasneniy-pochemu-my-ploho-poluchaemsya-na-foto/)
 
 ---
 
