@@ -21,7 +21,7 @@
 Меня зовут *Дмитрий Корековцев*. Я увлекаюсь программированием и разметкой.  
 Вот мое фото:
 
-![Мое фото](https://travelask.ru/blog/posts/1006-13-potryasnyh-foto-zhivotnyh-ot-odnogo-iz-luchshih-fotografo)
+![Милый котик](https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
 ---
 
